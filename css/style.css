@@ -1,8 +1,8 @@
 body{
-    background-color: cadetblue;
+    background-color:aliceblue ;
 }
 h1{
-    color: aqua;
+    color: royalblue;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 p{
@@ -30,5 +30,5 @@ span{
     font-size: larger;
     font-weight: 600;
     font-stretch: narrower;
-    color: yellow;
+    color: greenyellow;
 }
